@@ -284,9 +284,9 @@ def text2speech():
         pass
 
 
-root.title("Training Project")
+root.title("Face_unlock")
 l3 = Label(root, text="Machine Learning ", fg='brown', font=f1,bg='white').place(x=150, y=30)
-l3 = Label(root, text=" Virtual Application", fg='green', font=f1,bg='white').place(x=100, y=70)
+l3 = Label(root, text=" Face_unlock", fg='green', font=f1,bg='white').place(x=100, y=70)
 l3 = Label(root, text="Enter Username and Password", fg='brown', font=f1,bg='white').place(x=50, y=120)
 l3 = Label(root, text="Copyright @ Kundan Kumar ", fg='skyblue',bg='white').place(x=550, y=420)
 l1 = Label(root, text='Username', fg='brown', font=f1,bg='white').place(x=50, y=160)
